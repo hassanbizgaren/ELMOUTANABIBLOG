@@ -18,7 +18,7 @@ export default {
             } // import it from title
         },
         {
-            name : 'imagetitle',
+            name : 'imageTitle',
             type : 'image',
             title : 'Title image of your blog'
         },
